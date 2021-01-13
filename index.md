@@ -14,7 +14,7 @@ email  -- Linkedin
 
 **Knowledge Base Writer -- [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)**
 * Write and edit 40+ Intercom knowledge base articles. 
-* Edit and write email messages for sales funnel.
+* Edited and wrote email messages for sales funnel.
 
 
 **Technical Knowledge Writer -- [wpblazer](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (May 2020 - Present)**
@@ -53,18 +53,18 @@ email  -- Linkedin
 **Ebook writer writer -- self-employed  (2012 - 2016)**
 * Researched and wrote classroom resources for ESl teachers.
 * Content based on critical thinking, word games, brain teasers, and trivia questions.
-* Created the ebooks with InDesign.
+* Created the [ebooks](https://github.com/writingteacher/rob-whyte/blob/main/sample-teach-writing-rob-whyte.pdf){:target="_blank" rel="noopener"}  with InDesign.
 
 
 ## Content Writing
 
 **White paper -- [dronefutureaviation](https://dronefutureaviation.com/en/){:target="_blank" rel="noopener"}  (April - May 2019)**
-* Researched and wrote an analysis of the potential of heavy lift drones in high tension towers construction in remote areas.
+* Researched and wrote an analysis of the potential of [heavy lift drones](https://github.com/writingteacher/rob-whyte/blob/main/rob-whyte-writer-drone-sample.pdf){:target="_blank" rel="noopener"}  in high tension towers construction in remote areas.
 * Created the final report with InDesign.
 
 
 **Lead magnet -- Jason Mun  (April - May 2019)**
-* Researched and wrote a step by step guide for YouTube SEO optimisation.
+* Researched and wrote a step by step guide for [YouTube SEO optimisation](https://github.com/writingteacher/rob-whyte/blob/main/seo-sample-rob-whyte-writer.pdf){:target="_blank" rel="noopener"} .
 * Created the final report with InDesign.
 
 
