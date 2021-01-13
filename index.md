@@ -1,8 +1,10 @@
 ## On the road from teacher to tech writer. It's a bumpy ride.
 
-You can use the [editor on GitHub](https://github.com/writingteacher/rob-whyte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I write user face docs that help people learn skills and complete tasks.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Help SaaS startups build their knowledge base, write SEO marketing content, and other reports like white papers, lead magnets, or explainer videos. Add value by transforming information into accessible document solutions written in plain English.
+
+Camtasia, Google suite, MS Office suite, InDesign, Photoshop.
 
 ### Markdown
 
