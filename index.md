@@ -11,7 +11,7 @@ Camtasia, Google suite, MS Office suite, InDesign, Photoshop.
 ### Technical Writer and Content Creator
 Wrote about 40 knowledge base articles (Intercom) for a California SaaS document solution in the real estate space. Produce explainer video content (write/edit scripts, narrate, record, edit) with Camtasia.
 
-Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision).
+Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"}.
 
 ### Knowledge Base Writer
 Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
