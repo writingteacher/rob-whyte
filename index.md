@@ -1,7 +1,7 @@
 ## Rob Whyte
 [publications](https://github.com/writingteacher/rob-whyte/blob/publications/index.md)
 
-email  -- Linkedin -- extra 2
+email  -- Linkedin -- extra 2  aaa
 
 
 ## Technical Writing Project Experience
