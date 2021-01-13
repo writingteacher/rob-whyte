@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## On the road from teacher to tech writer. It's a bumpy ride.
 
 You can use the [editor on GitHub](https://github.com/writingteacher/rob-whyte/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
