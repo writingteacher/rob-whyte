@@ -6,6 +6,17 @@ Help SaaS startups build their knowledge base, write SEO marketing content, and 
 
 Camtasia, Google suite, MS Office suite, InDesign, Photoshop.
 
+## Project experience
+
+## Technical Writer and Content Creator
+Wrote about 40 knowledge base articles (Intercom) for a California SaaS document solution in the real estate space. Produce explainer video content (write/edit scripts, narrate, record, edit) with Camtasia.
+
+## Knowledge Base Writer
+Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
+
+## Technical Knowledge Writer
+Wrote about 30 how-to articles a WordPress plugin for knowledge base. Wrote montly SEO-friendly blog posts about WordPress tools and features. 
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
