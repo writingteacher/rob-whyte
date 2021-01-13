@@ -3,16 +3,17 @@ technical writer - instructional designer - content creator
 
 email  -- Linkedin
 
+
 ## Freelance Technical Writing Project Experience
 
 
-**Technical Writer and Content Creator -- Glide.com Oct 2020 - Feb 2021**
-*Wrote and edit Intercom knowledge base articles. 
-*Produced explainer [video content](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
+**Technical Writer and Content Creator -- [Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}  Oct 2020 - Feb 2021**
+* Wrote and edit Intercom knowledge base articles. 
+* Produced explainer [video content](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
 
 
 
-### Technical Writer and Content Creator
+**Technical Writer and Content Creator -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  June - July 2020**
 The client created an innovative SaaS tool that manages real estate transaction documents online. Staff built the knowledge base library burt need otuside help to create new material as ne features were released and standardize style. I 40 knowledge base articles (Intercom) for a California SaaS document solution in the real estate space. Produce explainer video content (write/edit scripts, narrate, record, edit) with Camtasia.
 
 Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"}.
@@ -36,10 +37,11 @@ Edited about 75 pages of instructions for a software testing tool in the Netherl
 Sample [here](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"}.
 
 
-### Write User Guide
-Working on behalf of the New Zealand Board of Education, the client needed user guides that helped teachers navigate a job share platform. I wrote instructional guides for users and administrators.
 
-Website [here](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"}.Content behind login.
+**Write User Guides -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  June - July 2020**
+Wrote two user guides for a job sharing platform; one each for teachers and administrators.
+
+
 
 ### Markdown
 
