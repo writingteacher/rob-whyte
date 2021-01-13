@@ -1,5 +1,5 @@
 ## Rob Whyte
-technical writer - instructional designer - content creator
+[publications](https://writingteacher.github.io/rob-whyte/publications)
 
 email  -- Linkedin
 
