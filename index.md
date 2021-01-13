@@ -17,24 +17,12 @@ email  -- Linkedin
 * Edit and write email messages for sales funnel.
 
 
-### Knowledge Base Writer
-Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
+
+**Technical Knowledge Writer -- [wpblazer](https://url.live/Account/Login){:target="_blank" rel="noopener"}   Oct 2020 - Feb 2021**
+* Write 30 knowledge base articles for a WordPress plugin.
+* Write monthly [SEO-friendly blog posts](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" rel="noopener"} about WordPress tools and features. 
 
 
-**Technical Writer and Content Creator -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}   June - July 2020**
-The client created an innovative SaaS tool that manages real estate transaction documents online. Staff built the knowledge base library burt need otuside help to create new material as ne features were released and standardize style. I 40 knowledge base articles (Intercom) for a California SaaS document solution in the real estate space. Produce explainer video content (write/edit scripts, narrate, record, edit) with Camtasia.
-
-Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"}.
-
-
-
-Sample [here]
-
-
-### Technical Knowledge Writer
-Wrote 30 knowledge base articles for a WordPress plugin. Wrote monthly SEO-friendly blog posts about WordPress tools and features. 
-
-Sample [here](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" rel="noopener"}.
 
 
 **Knowledge Base Language & Style Reviewer -- [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}   June - July 2020**
