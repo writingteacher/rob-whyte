@@ -7,8 +7,9 @@ email  -- Linkedin
 
 ### Technical Writer and Content Creator
 
-Technical Writer and Content Creator -- Glide.com Oct 2020 - Feb 2021
-Wrote and edit Intercom knowledge base articles. Produced explainer [video content](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
+**Technical Writer and Content Creator -- Glide.com Oct 2020 - Feb 2021**
+8Wrote and edit Intercom knowledge base articles. 
+8Produced explainer [video content](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
 
 
 
