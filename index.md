@@ -52,6 +52,7 @@ email  -- Linkedin
 
 **Ebook writer writer -- self-employed  (2012 - 2016)**
 * Researched and wrote classroom resources for ESl teachers.
+* Content based on critical thinking, word games, brain teasers, and trivia questions.
 * Created the ebooks with InDesign.
 
 
