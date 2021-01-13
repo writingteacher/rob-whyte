@@ -43,6 +43,7 @@ email  -- Linkedin
 * Write user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"} for the this job management SaaS client
 
 
+
 ## Publications
 
 **Contributing writer -- Lonely Planet  (1990 - 2018)**
@@ -54,6 +55,7 @@ email  -- Linkedin
 * Researched and wrote classroom resources for ESl teachers.
 * Content based on critical thinking, word games, brain teasers, and trivia questions.
 * Created the [ebooks](https://github.com/writingteacher/rob-whyte/blob/main/sample-teach-writing-rob-whyte.pdf){:target="_blank" rel="noopener"}  with InDesign.
+
 
 
 ## Content Writing
