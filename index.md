@@ -13,6 +13,7 @@ Wrote about 40 knowledge base articles (Intercom) for a California SaaS document
 
 Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"}.
 
+
 ### Knowledge Base Writer
 Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
 
@@ -29,6 +30,12 @@ Sample [here](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" r
 Edited about 75 pages of instructions for a software testing tool in the Netherlands. Reviewed entire site from account settings to milestone creation and made adjustments for accuracy and clarity.
 
 Sample [here](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"}.
+
+
+### Write User Guide
+Working on behalf of the New Zealand Board of Education, the client needed user guides that helped teachers navigate a job share platform. I wrote instructional guides for users and administrators.
+
+Website [here](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"}.Content behind login.
 
 ### Markdown
 
