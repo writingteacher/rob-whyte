@@ -7,13 +7,13 @@ email  -- Linkedin
 ## Freelance Technical Writing Project Experience
 
 
-**Technical Writer and Content Creator -- [Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}  Oct 2020 - Feb 2021**
-* Wrote and edit Intercom knowledge base articles. 
-* Produced explainer [video content](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
+**Technical Writer and Content Creator -- [Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}   Oct 2020 - Feb 2021**
+* Wrote and edit 40+ Intercom knowledge base articles. 
+* Produced 25+ [explainer videos](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
 
 
 
-**Technical Writer and Content Creator -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  June - July 2020**
+**Technical Writer and Content Creator -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}   June - July 2020**
 The client created an innovative SaaS tool that manages real estate transaction documents online. Staff built the knowledge base library burt need otuside help to create new material as ne features were released and standardize style. I 40 knowledge base articles (Intercom) for a California SaaS document solution in the real estate space. Produce explainer video content (write/edit scripts, narrate, record, edit) with Camtasia.
 
 Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"}.
@@ -31,15 +31,12 @@ Wrote 30 knowledge base articles for a WordPress plugin. Wrote monthly SEO-frien
 Sample [here](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" rel="noopener"}.
 
 
-### Knowledge Base Language & Style Reviewer
-Edited about 75 pages of instructions for a software testing tool in the Netherlands. Reviewed entire site from account settings to milestone creation and made adjustments for accuracy and clarity.
-
-Sample [here](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"}.
+**Knowledge Base Language & Style Reviewer -- [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}   June - July 2020**
+Edited 75+ pages of [instructions](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"} for a software testing tool in the Netherlands. Reviewed entire site from account settings to milestone creation and made adjustments for accuracy and clarity.
 
 
-
-**Write User Guides -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  June - July 2020**
-Wrote two user guides for a job sharing platform; one each for teachers and administrators.
+**Technical Writer User Guides -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  June - July 2020**
+* Wrote two user guides for a job sharing platform; one each for teachers and administrators.
 
 
 
