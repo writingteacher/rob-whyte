@@ -1,8 +1,17 @@
-## On the road from teacher to tech writer. It's a bumpy ride.
+# Rob Whyte
+technical writer - instructional designer - content creator
 
-I write user face docs that help people learn skills and complete tasks.
+email  -- Linkedin
 
-Help SaaS startups build their knowledge base, write SEO marketing content, and other reports like white papers, lead magnets, or explainer videos. Add value by transforming information into accessible document solutions written in plain English.
+# Freelance Technical Writing Project Experience
+
+### Technical Writer and Content Creator
+
+Technical Writer and Content Creator -- Glide.com Oct 2020 - Feb 2021
+Wrote and edit Intercom knowledge base articles. Produced explainer [video content](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
+
+
+
 
 Camtasia, Google suite, MS Office suite, InDesign, Photoshop.
 
