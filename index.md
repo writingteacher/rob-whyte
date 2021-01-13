@@ -17,16 +17,13 @@ email  -- Linkedin
 * Edit and write email messages for sales funnel.
 
 
-
 **Technical Knowledge Writer -- [wpblazer](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (May 2020 - Present)**
 * Write 30 knowledge base articles for a WordPress plugin.
 * Write monthly [SEO-friendly blog posts](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" rel="noopener"} about WordPress tools and features. 
 
 
-
 **Knowledge Base Language & Style Reviewer -- [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}  (March - April 2020)**
 * Edited 75+ pages of [instructions](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"} for a software testing tool in the Netherlands. 
-
 
 
 **Technical Writer User Guides -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  (June - July 2020)**
@@ -40,6 +37,11 @@ email  -- Linkedin
 **Technical Writer for CMS Manual -- [sinorbis](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - July 2020)**
 * Created knowledge base information architecture.
 * Wrote 100+ Zendesk how-to [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}  and FAQs in response to customer support tickets.
+
+
+**WooCommerce Plugin Guide -- [WooCommerce Docs](https://docs.woocommerce.com/){:target="_blank" rel="noopener"}  (January - May 2020)**
+* Write user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"} for the this job management SaaS client
+
 
 
 ## Content Writing Project Experience
