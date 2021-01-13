@@ -16,19 +16,19 @@ Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag
 ### Knowledge Base Writer
 Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
 
-Sample [here](https://help.url.live/knowledge-base/understanding-the-profile-page/).
+Sample [here](https://help.url.live/knowledge-base/understanding-the-profile-page/){:target="_blank" rel="noopener"}.
 
 
 ### Technical Knowledge Writer
 Wrote 30 knowledge base articles for a WordPress plugin. Wrote monthly SEO-friendly blog posts about WordPress tools and features. 
 
-Sample [here](https://wpblazer.com/wordpress-ssl-management/).
+Sample [here](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" rel="noopener"}.
 
 
 ### Knowledge Base Language & Style Reviewer
 Edited about 75 pages of instructions for a software testing tool in the Netherlands. Reviewed entire site from account settings to milestone creation and made adjustments for accuracy and clarity.
 
-Sample [here](https://help.testmonitor.com/requirements-overview).
+Sample [here](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"}.
 
 ### Markdown
 
