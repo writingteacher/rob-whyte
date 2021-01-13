@@ -12,6 +12,14 @@ email  -- Linkedin
 * Produced 25+ [explainer videos](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
 
 
+**Knowledge Base Writer -- [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}   Oct 2020 - Feb 2021**
+* Write and edit 40+ Intercom knowledge base articles. 
+* Edit and write email messages for sales funnel.
+
+
+### Knowledge Base Writer
+Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
+
 
 **Technical Writer and Content Creator -- [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}   June - July 2020**
 The client created an innovative SaaS tool that manages real estate transaction documents online. Staff built the knowledge base library burt need otuside help to create new material as ne features were released and standardize style. I 40 knowledge base articles (Intercom) for a California SaaS document solution in the real estate space. Produce explainer video content (write/edit scripts, narrate, record, edit) with Camtasia.
@@ -19,10 +27,8 @@ The client created an innovative SaaS tool that manages real estate transaction 
 Sample [here](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"}.
 
 
-### Knowledge Base Writer
-Wrote how-to articles for one click calling platform. Wrote and edited email content for sales funnel. 
 
-Sample [here](https://help.url.live/knowledge-base/understanding-the-profile-page/){:target="_blank" rel="noopener"}.
+Sample [here]
 
 
 ### Technical Knowledge Writer
