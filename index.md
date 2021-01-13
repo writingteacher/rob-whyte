@@ -37,6 +37,11 @@ email  -- Linkedin
 * Built the knowledge base from scratch and wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the this job management SaaS client.
 
 
+**Technical Writer for CMS Manual -- [sinorbis.om](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - July 2020)**
+* Created knowledge base information architecture.
+* Wrote 100+ Zendesk how-to [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}  and FAQs in response to customer support tickets.
+
+
 ## Content Writing Project Experience
 
 
