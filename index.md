@@ -43,8 +43,19 @@ email  -- Linkedin
 * Write user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"} for the this job management SaaS client
 
 
+## Publications
 
-## Content Writing Project Experience
+**Contributing writer -- Lonely Planet  (1990 - 2018)**
+* Researched and wrote chapters for Korea guidebooks and [online content](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}.
+* Write food and travel sections for various trade and reference books.
+
+
+**Ebook writer writer -- self-employed  (2012 - 2016)**
+* Researched and wrote classroom resources for ESl teachers.
+* Created the ebooks with InDesign.
+
+
+## Content Writing
 
 **White paper -- [dronefutureaviation](https://dronefutureaviation.com/en/){:target="_blank" rel="noopener"}  (April - May 2019)**
 * Researched and wrote an analysis of the potential of heavy lift drones in high tension towers construction in remote areas.
