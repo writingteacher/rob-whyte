@@ -1,5 +1,5 @@
 ## Rob Whyte
-[publications](https://writingteacher.github.io/rob-whyte/publications)
+[publications](https://github.com/writingteacher/rob-whyte/blob/publications/index.md)
 
 email  -- Linkedin
 
