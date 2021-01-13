@@ -33,6 +33,10 @@ email  -- Linkedin
 * Wrote two user guides for a job sharing platform; one each for teachers and administrators.
 
 
+**Knowledge Base Writer -- [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - October 2019)**
+* Built the knowledge base from scratch and wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the this job management SaaS client.
+
+
 ## Content Writing Project Experience
 
 
