@@ -26,6 +26,6 @@
 **Beyond the Content: Advanced Topics to Develop Your TC Career Certificate -- Society for Technical Communication (2018)**
 * Completed online professional development course.
 
-
+ 
 
 
