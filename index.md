@@ -41,7 +41,7 @@
 
 
 
-## Publications
+## Publications 
 
 **Contributing writer -- Lonely Planet  (1990 - 2018)**
 * Researched and wrote chapters for Korea guidebooks and [online content](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}.
