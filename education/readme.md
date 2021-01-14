@@ -1,4 +1,4 @@
-### [home](https://writingteacher.github.io/rob-whyte) -- education -- [publications](publications/) -- content  -- Linkedin -- email
+### [home](https://writingteacher.github.io/rob-whyte) -- education -- [publications](publications) -- content  -- Linkedin -- email
 
 
 
