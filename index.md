@@ -1,4 +1,4 @@
-### home -- [education](https://writingteacher.github.io/rob-whyte/education) -- [publications](https://writingteacher.github.io/rob-whyte/publications) -- [content](https://writingteacher.github.io/rob-whyte/content)  -- [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact me</a>
+### home -- [education](https://writingteacher.github.io/rob-whyte/education) -- [publications](https://writingteacher.github.io/rob-whyte/publications) -- [content](https://writingteacher.github.io/rob-whyte/content)  -- [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>
 
 
 ## Technical Writing Project Experience 
