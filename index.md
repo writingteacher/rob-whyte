@@ -1,6 +1,6 @@
 ## Rob Whyte
 
-[email](https://github.com/writingteacher/rob-whyte/blob/main/test-1){:target="_blank" rel="noopener"}  -- Linkedin -- extra 2  aaa
+[email](https://github.com/writingteacher/rob-whyte/blob/gh-pages/edu.html){:target="_blank" rel="noopener"}  -- Linkedin -- extra 2  aaa
 
 
 ## Technical Writing Project Experience
