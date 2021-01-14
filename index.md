@@ -1,6 +1,6 @@
 ## Rob Whyte
 
-[email](/bish){:target="_blank" rel="noopener"}  -- Linkedin -- extra 2  aaa
+[email](school){:target="_blank" rel="noopener"}  -- Linkedin -- extra 2  aaa
 
 
 ## Technical Writing Project Experience
