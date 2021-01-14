@@ -1,6 +1,4 @@
-## Rob Whyte
-
-home -- [education](education) -- publications -- content  -- Linkedin -- email
+### home -- [education](education) -- publications -- content  -- Linkedin -- email
 
 
 ## Technical Writing Project Experience
