@@ -1,3 +1,7 @@
+### home(https://writingteacher.github.io/rob-whyte/) -- [education](education) -- publications -- content  -- Linkedin -- email
+
+
+
 ## Education and Professional Development
 
 **M.Sc. Planning -- University of Toronto (1988 - 1990)**
