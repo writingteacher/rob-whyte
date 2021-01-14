@@ -1,4 +1,4 @@
-### home -- [education](education) -- [publications](publications) -- content  -- Linkedin -- email
+### home -- [education](https://writingteacher.github.io/rob-whyte/education) -- [publications](https://writingteacher.github.io/rob-whyte/publications) -- content  -- Linkedin -- email
 
 
 ## Technical Writing Project Experience 
