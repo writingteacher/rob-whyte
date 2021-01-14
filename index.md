@@ -1,7 +1,7 @@
 ### home -- [education](education) -- [publications](publications) -- content  -- Linkedin -- email
 
 
-## Technical Writing Project Experience
+## Technical Writing Project Experience 
 
 
 **Technical Writer and Content Creator -- [Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)**
