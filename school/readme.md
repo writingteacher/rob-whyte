@@ -1,3 +1,0 @@
-bish
-bufs
-tor
