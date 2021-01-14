@@ -1,4 +1,4 @@
-### [home](https://writingteacher.github.io/rob-whyte) -- [education](https://writingteacher.github.io/rob-whyte/education) -- [publications](https://writingteacher.github.io/rob-whyte/publications) -- content  -- [Linkedin](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- email
+### [home](https://writingteacher.github.io/rob-whyte) -- [education](https://writingteacher.github.io/rob-whyte/education) -- [publications](https://writingteacher.github.io/rob-whyte/publications) -- content  -- [Linkedin](https://www.linkedIn.com/in/robwhyte/){:target="_blank" rel="noopener"} -- [contact me](robbusan@yahoo.com)
 
 
 ## Content Writing
