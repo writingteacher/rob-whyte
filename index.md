@@ -1,6 +1,6 @@
 ## Rob Whyte
 
-email  -- Linkedin -- extra 2  aaa
+[email](https://github.com/writingteacher/rob-whyte/tree/education.md){:target="_blank" rel="noopener"}  -- Linkedin -- extra 2  aaa
 
 
 ## Technical Writing Project Experience
