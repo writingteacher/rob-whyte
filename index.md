@@ -34,27 +34,15 @@
 * The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.
 
 
-**Technical Writer for CMS Manual -- [sinorbis](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - July 2020)**
-* Created knowledge base information architecture.
-* Wrote 100+ Zendesk how-to [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}  and FAQs in response to customer support tickets.
+**Technical Writer for CMS Manual**
+[sinorbis](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - July 2020)
+* Initially hired by this Australian CMS startup to write a small block of how-to articles for the Zendesk knowledge base starting with simple information architecture I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"} to support new features and FAQs in response to customer support tickets.
 
 
-**WooCommerce Plugin Guide -- [WooCommerce Docs](https://docs.woocommerce.com/){:target="_blank" rel="noopener"}  (January - May 2020)**
-* Write user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"} for the this job management SaaS client
+**WooCommerce Plugin Guide**
+[WooCommerce Docs](https://docs.woocommerce.com/){:target="_blank" rel="noopener"}  (January - May 2020)
+* Wrote a user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}.
 
 
 
-## Publications 
 
-**Contributing writer -- Lonely Planet  (1990 - 2018)**
-* Researched and wrote chapters for Korea guidebooks and [online content](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}.
-* Write [food](https://github.com/writingteacher/rob-whyte/blob/main/LP-spicy-food-whyte-kimchi.pdf){:target="_blank" rel="noopener"} and [travel](https://github.com/writingteacher/rob-whyte/blob/main/rob-whyte-seoul-short.pdf){:target="_blank" rel="noopener"} sections for various trade and reference books.
-
-
-**Ebook writer writer -- self-employed  (2012 - 2016)**
-* Researched and wrote classroom resources for ESl teachers.
-* Content based on critical thinking, word games, brain teasers, and trivia questions.
-* Created the [ebooks](https://github.com/writingteacher/rob-whyte/blob/main/sample-teach-writing-rob-whyte.pdf){:target="_blank" rel="noopener"}  with InDesign.
-
-
- 
