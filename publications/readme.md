@@ -1,4 +1,4 @@
-#### PROJECTS -- [EDUCATION](https://writingteacher.github.io/rob-whyte/education) -- PUBLICATIONS -- [CONTENT](https://writingteacher.github.io/rob-whyte/content)   
+#### [PROJECTS](https://writingteacher.github.io/rob-whyte) -- [EDUCATION](https://writingteacher.github.io/rob-whyte/education) -- PUBLICATIONS -- [CONTENT](https://writingteacher.github.io/rob-whyte/content)   
    
 ##### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
 
