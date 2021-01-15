@@ -5,8 +5,8 @@
 
 
 ### Technical Writer and Content Creator
-[Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)
-* A successful startup that built the knowledge base foundation with internal staff, I was hired to scale the help center. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
+[Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
+A successful startup that built the knowledge base foundation with internal staff, I was hired to scale the help center. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
 
 
 ### Knowledge Base Writer
