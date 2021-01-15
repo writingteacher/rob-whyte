@@ -4,12 +4,12 @@
 ## Technical Writing Projects 
 
 
-##Technical Writer and Content Creator
+## Technical Writer and Content Creator
 * [Glide.com](https://help.glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)
 A successful startup that built the knowledge base foundation with internal staff, I was hired to scale the help center. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.
 
 
-###Knowledge Base Writer
+### Knowledge Base Writer
 [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)
 * Hired by this British Columbia startup to write and edit knowledge base articles for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.
 
