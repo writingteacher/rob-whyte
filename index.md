@@ -27,7 +27,7 @@ Hired by this British Columbia startup to write and edit knowledge base articles
   
 #### Technical Knowledge Writer
 [wpblazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Present)  
-I was hired initially hired by this WordPress plugin startup to write how-to articles for its empty knowledge base libary. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-ssl-management/){:target="_blank" rel="noopener"} about WordPress tools and features.  
+I was hired initially hired by this WordPress plugin startup to write [how-to articles] https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.  
 
 
   
