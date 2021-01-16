@@ -1,6 +1,6 @@
 #### [PROJECTS](https://writingteacher.github.io/rob-whyte) -- EDUCATION -- [PUBLICATIONS](https://writingteacher.github.io/rob-whyte/publications) -- [CONTENT](https://writingteacher.github.io/rob-whyte/content)   
    
-##### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
+#### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
 
 ***   
     
@@ -9,13 +9,13 @@
 
 ## University
 
-#### M.Sc. Planning
-**University of Toronto (1988 - 1990)**   
+### M.Sc. Planning
+##### University of Toronto (1988 - 1990)  
 Completed two-year program with specialization in environmental planning.
 Awarded CHMC scholarship.   
       
          
-#### Honours B.A
+### Honours B.A
 ##### Bishops University (1982 - 1986)
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
