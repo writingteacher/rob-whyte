@@ -25,7 +25,7 @@ Created the [ebooks](https://github.com/writingteacher/rob-whyte/blob/main/sampl
 
 
  
- ![contributions to trade books](trade-book.mp4)
+ [contributions to trade books](trade-book.mp4)
  
  
  [another treat](trade-book.mp4)
