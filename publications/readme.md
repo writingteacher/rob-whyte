@@ -25,5 +25,5 @@ Created the [ebooks](https://github.com/writingteacher/rob-whyte/blob/main/sampl
 
 
  
- ![World's Best Spicy Food](rob-whyte/assets/street-food-whyte.jpg)
+ ![World's Best Spicy Food](street-food-whyte.jpg)
  
