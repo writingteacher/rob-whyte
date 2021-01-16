@@ -2,12 +2,15 @@
    
 #### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
 
-***   
+***  
+  
     
-     
+    
+   
+   
+   
+## University  
 
-
-## University
 
 ### M.Sc. Planning
 ##### University of Toronto (1988 - 1990)  
@@ -20,8 +23,9 @@ Awarded CHMC scholarship.
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
    
+ 
    
-
+   
 ## Professional development
 
 #### E-Learning Instructional Design and Development Certificate
@@ -32,12 +36,12 @@ Coursework included assessment and evaluation, course design, and a practicum.
        
 #### Simplified Technical English (STE) Workshop 
 ##### Shufrans TechDocs (February 2019)
-Completed two-day live online course that teaches controlled language for manuals.   
+Completed two-day live online course that teaches controlled language for manuals.    
    
    
 #### TechComm Fundamentals Bootcamp
 ##### Society for Technical Communication (2019)
-Completed online professional development course.
+Completed online professional development course.   
    
    
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
