@@ -48,4 +48,4 @@ Completed online professional development course.
 ##### Society for Technical Communication (2018)
 Completed online professional development course.
 
-
+ 
