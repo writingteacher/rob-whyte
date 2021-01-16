@@ -3,13 +3,15 @@
 ##### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
 
 ***   
-    
-    
    
-
-
-## Content Writing
-
+      
+         
+   
+     
+     
+## Content Writing   
+   
+   
 #### White paper -- [dronefutureaviation](https://dronefutureaviation.com/en/){:target="_blank" rel="noopener"}  (April - May 2019)
 * Researched and wrote an analysis of the potential of [heavy lift drones](https://github.com/writingteacher/rob-whyte/blob/main/rob-whyte-writer-drone-sample.pdf){:target="_blank" rel="noopener"}  in high tension towers construction in remote areas.
 * Created the final report with InDesign.
