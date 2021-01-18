@@ -4,8 +4,10 @@
 
 ***   
     
-    
-   
+### Samples: User-face software documents
+[How to Send Documents for E-Signature](https://help.glide.com/en/articles/4761633-how-to-send-documents-for-e-signature-with-glide-signatures){:target="_blank" rel="noopener"}
+[Edit a Sales Invoice](https://help.skeduler.com.au/knowledgebase/edit-a-sales-invoice-from-a-job-card/){:target="_blank" rel="noopener"}
+]Using Drag and Drop Components](https://help.sinorbis.com/hc/en-us/articles/360000896076-Using-Drag-and-Drop-Components-in-the-WeChat-Editor){:target="_blank" rel="noopener"}   
    
    
    
@@ -15,7 +17,7 @@
       
 #### Technical Writer and Content Creator
 ##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
-A successful startup that built the knowledge base foundation with internal staff, I was hired to scale the help center. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4691386-how-listing-agents-flag-disclosure-questions-for-their-sellers-review-and-revision){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.     
+This successful startup hired me to scale help center documentation. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.     
    
    
 #### Knowledge Base Writer
