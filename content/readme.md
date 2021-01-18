@@ -5,7 +5,13 @@
 ***      
    
       
-         
+ #### Quck find micro-copy samples
+* [Micro 0 thinkingly]   
+* [Micro 1 thinkingly]   
+* [Micro 2 thinkingly]   
+* [Micro 3 thinkingly]   
+* [Micro 4 thinkingly]   
+    
    
      
      
