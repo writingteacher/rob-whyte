@@ -39,14 +39,17 @@ Coursework included assessment and evaluation, course design, and a practicum.
 ##### Shufrans TechDocs (February 2019)
 Completed two-day live online course that teaches controlled language for manuals.    
    
+      
+#### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
+##### Society for Technical Communication (2019)
+Completed online professional development course.
+   
    
 #### TechComm Fundamentals Bootcamp
-##### Society for Technical Communication (2019)
+##### Society for Technical Communication (2018)
 Completed online professional development course.   
    
    
-#### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
-##### Society for Technical Communication (2018)
-Completed online professional development course.
+
 
  
