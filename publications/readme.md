@@ -24,7 +24,7 @@ Write [food](https://github.com/writingteacher/rob-whyte/blob/main/LP-spicy-food
    
    
 #### Ebook writer writer -- self-employed  (2012 - 2016)
-Researched and wrote classroom resources for ESl teachers.
+Researched and wrote classroom resources for ESL teachers.
 Content based on critical thinking, word games, brain teasers, and trivia questions.
 Created the [ebooks](https://github.com/writingteacher/rob-whyte/blob/main/sample-teach-writing-rob-whyte.pdf){:target="_blank" rel="noopener"}  with InDesign.
 
