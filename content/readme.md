@@ -5,7 +5,7 @@
 ***      
    
       
-#### Quick find micro-copy samples
+#### Quick find samples: micro-copy
 * [thinkingly](micro-copy-rob-whyte-writer-0.jpg){:target="_blank" rel="noopener"}    
 * [aplomb](micro-copy-1-rob-whyte-technical-writer.jpg){:target="_blank" rel="noopener"}    
 * [tool](micro-copy-2-rob-whyte-copywriter.jpg){:target="_blank" rel="noopener"}       
