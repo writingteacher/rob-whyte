@@ -11,10 +11,11 @@
 * [tool](micro-copy-2-rob-whyte-copywriter.jpg){:target="_blank" rel="noopener"}       
 * [trivia](micro-copy-3-rob-whyte-writer.jpg){:target="_blank" rel="noopener"}       
 * [essay](micro-copy-4-rob-whyte-writer.jpg){:target="_blank" rel="noopener"}       
+          
     
-   
-     
-     
+***   
+          
+          
 ## Content Writing   
    
    
