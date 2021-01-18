@@ -7,7 +7,9 @@
 #### Quick find samples: User-face software documents
 * [Lonely Planet marketing booklet](rob_whyte_seoul_short.pdf){:target="_blank" rel="noopener"}
 * [Design and cost of anerobic digestion plants](rob-whyte-organic1.pdf){:target="_blank" rel="noopener"}
-* [online travel destination profile](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}
+* [online travel destination profile](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}   
+   
+   
 
                 
                     
