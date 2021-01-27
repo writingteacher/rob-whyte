@@ -29,7 +29,7 @@ Hired by this Singapore startup to launch a knowledge base starting with nine [a
                   
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
-Hired by this British Columbia startup to write and edit knowledge base articles(https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
+Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
     
     
 #### Technical Knowledge Writer
