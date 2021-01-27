@@ -23,13 +23,11 @@ This successful startup hired me to scale help center documentation. Working wit
    
    
 #### Knowledge Base Writer    
+##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (January 2021)  
+Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.  
     
-##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
-Hired by this startup to launch knowledge base starting with nine articles(https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} for its contract management srvice.  
-    
-        
-            
-            
+                  
+#### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
 Hired by this British Columbia startup to write and edit knowledge base articles(https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
     
