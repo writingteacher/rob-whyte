@@ -20,12 +20,7 @@
 #### Technical Writer and Content Creator
 ##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
 This successful startup hired me to scale help center documentation. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.     
-   
-   
-#### Knowledge Base Writer    
-##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (January 2021)  
-Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.  
-    
+     
                   
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
@@ -34,7 +29,12 @@ Hired by this British Columbia startup to write and edit [knowledge base article
     
 #### Technical Knowledge Writer
 ##### [wpblazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Present)  
-Hired by this WordPress plugin startup to write [how-to articles](https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.     
+Hired by this WordPress plugin startup to write [how-to articles](https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.   
+   
+          
+#### Knowledge Base Writer    
+##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (January 2021)  
+Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.  
    
    
 #### Knowledge Base Language & Style Reviewer
