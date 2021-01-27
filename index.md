@@ -22,9 +22,16 @@
 This successful startup hired me to scale help center documentation. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.     
    
    
-#### Knowledge Base Writer
+#### Knowledge Base Writer    
+    
+##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
+Hired by this startup to launch knowledge base starting with nine articles(https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} for its contract management srvice.  
+    
+        
+            
+            
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
-Hired by this British Columbia startup to write and edit knowledge base articles for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
+Hired by this British Columbia startup to write and edit knowledge base articles(https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
     
     
 #### Technical Knowledge Writer
