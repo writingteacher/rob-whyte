@@ -18,7 +18,7 @@
       
       
 #### Contributing writer -- Lonely Planet  (1990 - 2018)
-Researched and wrote chapters for Korea guidebooks and [online content](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}.
+Researched and wrote chapters for Korea guidebooks and [online content](https://www.lonelyplanet.com/articles/essential-busan-10-highlights-of-south-koreas-second-city){:target="_blank" rel="noopener"}.
 Write [food](lp-brunch-rob-whyte-writer.pdf){:target="_blank" rel="noopener"} and [travel](busan-lp-rob-whyte.pdf){:target="_blank" rel="noopener"} sections for various trade and reference books.   
    
    
