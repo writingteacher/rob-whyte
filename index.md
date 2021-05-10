@@ -23,12 +23,12 @@ This successful startup hired me to scale help center documentation. Working wit
      
                   
 #### Knowledge Base Writer               
-##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Present)  
+##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
     
     
 #### Technical Knowledge Writer
-##### [wpblazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Present)  
+##### [wpblazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
 Hired by this WordPress plugin startup to write [how-to articles](https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.   
    
           
