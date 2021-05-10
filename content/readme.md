@@ -21,7 +21,7 @@
    
       
 #### Use cases -- [alchera](https://alcherainc.com/en/){:target="_blank" rel="noopener"}  (Jan - June 2020)
-* Wrote use case for AI products [heavy lift drones](rob-whyte-writer-drone-sample.pdf){:target="_blank" rel="noopener"}. Compeleted background research and designed use case format. Use cases include [3D facial feature mapping technology for fintech] (rob-whyte/blob/gh-pages/content/whyte-ai-snow-camera.pdf) and facial recognition technology to [generate 3D image products from 2D camera phones](https://github.com/writingteacher/rob-whyte/blob/gh-pages/content/whyte-ai-snow-camera.pdf).
+* Wrote use case for AI products. Completed background research and designed use case format. Use cases include [3D facial feature mapping technology for fintech](rob-whyte/blob/gh-pages/content/whyte-ai-snow-camera.pdf){:target="_blank" rel="noopener"} and facial recognition technology to [generate 3D image products from 2D camera phones](https://github.com/writingteacher/rob-whyte/blob/gh-pages/content/whyte-ai-snow-camera.pdf){:target="_blank" rel="noopener"}.
 
 
 #### White paper -- [dronefutureaviation](https://dronefutureaviation.com/en/){:target="_blank" rel="noopener"}  (April - May 2019)
