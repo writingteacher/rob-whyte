@@ -20,7 +20,7 @@ Awarded CHMC scholarship.
       
          
 ### Honours B.A
-##### Bishops University (1982 - 1986)
+##### Bishop's University (1982 - 1986)
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
    
