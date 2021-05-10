@@ -46,8 +46,13 @@ Hired to edit [instructions](https://help.testmonitor.com/requirements-overview)
 #### Technical Writer User Guides
 ##### [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  (June - July 2020)  
 Wrote two user guides for a job sharing platform; one each for teachers and administrators.     
-   
-   
+
+
+#### Technical Writer User Guides
+##### [tactical arbitrage](https://tacticalarbitrage.com/){:target="_blank" rel="noopener"}  (June - July 2020)  
+Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients source products for sale on Amazon.    
+    
+    
 #### Knowledge Base Writer
 ##### [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - October 2019)  
 The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.     
