@@ -12,7 +12,7 @@
 ## University  
 
 ### eMBA
-> ##### Quantic University (2021 - current)    
+##### Quantic University (2021 - current)    
 On my way to completing an eMBA with this unique online program.  
   
     
