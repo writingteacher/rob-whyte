@@ -12,8 +12,8 @@
 ## University  
 
 ### eMBA
-##### Quantic University (2021 - current)  
-On my way to completing an eMBA with this unique online program   
+> ##### Quantic University (2021 - current)  
+On my way to completing an eMBA with this unique online program.    
   
   
    
@@ -21,9 +21,9 @@ On my way to completing an eMBA with this unique online program
 ##### University of Toronto (1988 - 1990)  
 Completed two-year program with specialization in environmental planning.
 Awarded CHMC scholarship.   
-      
-      
-      
+       
+       
+       
 ### Honours B.A
 ##### Bishop's University (1982 - 1986)
 Earned honours degree in Political Science.
@@ -40,13 +40,13 @@ Graduated with first class distinction.
 Coursework included assessment and evaluation, course design, and a practicum.   
    
      
-     
+<br />      
 #### Simplified Technical English (STE) Workshop 
 ##### Shufrans TechDocs (February 2019)
 Completed two-day live online course that teaches controlled language for manuals.    
    
       
-      
+<br />       
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
 ##### Society for Technical Communication (2019)
 Completed online professional development course.
