@@ -31,14 +31,15 @@ Graduated with first class distinction.
 180-hour program covered essential components of e-learning course design and delivery. 
 Coursework included assessment and evaluation, course design, and a practicum.   
 <br />      
-#### Simplified Technical English (STE) Workshop 
+#### Simplified Technical English (STE) Workshop
 ##### Shufrans TechDocs (February 2019)
 Completed two-day live online course that teaches controlled language for manuals.     
 <br />       
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
 ##### Society for Technical Communication (2019)
-Completed online professional development course.
-<br />                
+Completed online professional development course.  
+<br />     
+  
 #### TechComm Fundamentals Bootcamp
 ##### Society for Technical Communication (2018)
 Completed online professional development course.   
