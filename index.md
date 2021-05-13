@@ -24,8 +24,8 @@ He honed his writing chops as a Lonely Planet contributor, learned to design eff
     
     
 #### Technical Writer
-##### [flowhaven.com](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - Present)  
-First technical writer hired by this startup to create a knowldge base. Wrote how-to articles using the Salesforce knowledge base. 
+##### [Flowhaven.com](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - Present)  
+First technical writer hired by this startup to create a knowldge base for a royalty licensing SaaS app built on Salesforce. Wrote how-to articles using the Salesforce knowledge base. 
       
       
       
