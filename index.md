@@ -3,6 +3,10 @@
 ##### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
 
 ***   
+ #### About    
+Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports for a boutique environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand. He honed his writing chops as a Lonely Planet contributor for multiple publications, including four South Korea country guides. A seasoned university instructor and teacher trainer, he has written or co-authored numerous publications in the education and teacher-resource space. Rob comes to technical writing with a background in plain English communication, which helps him craft easy to easy to understand user documentation for SaaS platforms.
+   
+   
     
 #### Quick find samples: user-face software documents    
 * [How to Send Documents for E-Signature](https://help.glide.com/en/articles/4761633-how-to-send-documents-for-e-signature-with-glide-signatures){:target="_blank" rel="noopener"}   
