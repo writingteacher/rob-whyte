@@ -3,8 +3,8 @@
 ##### [LinkedIn](https://www.linkedin.com/in/robwhyte/){:target="_blank" rel="noopener"} -- <a href="mailto:robbusan@yahoo.com">contact</a>   
 
 ***   
- #### About    
-Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports for a boutique environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand. He honed his writing chops as a Lonely Planet contributor for multiple publications, including four South Korea country guides. A seasoned university instructor and teacher trainer, he has written or co-authored numerous publications in the education and teacher-resource space. Rob comes to technical writing with a background in plain English communication, which helps him craft easy to easy to understand user documentation for SaaS platforms.
+#### About    
+Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports for a boutique environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand. He honed his writing chops as a Lonely Planet contributor, leaned what it takes to be an effective classroom instructor, and dove headfirst into the unknown waters of digital content and e-book publishing. Rob comes to technical writing with a strong background in plain English communication, which helps him craft easy to understand user documentation for SaaS platforms.
    
    
     
