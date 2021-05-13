@@ -21,6 +21,12 @@ He honed his writing chops as a Lonely Planet contributor, learned to design eff
       
 ## Technical Writing Projects   
    
+    
+    
+#### Technical Writer
+##### [flowhaven.com](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - Present)  
+First technical writer hired by this startup to create a knowldge base. Wrote how-to articles using the Salesforce knowledge base. 
+      
       
       
 #### Technical Writer and Content Creator
