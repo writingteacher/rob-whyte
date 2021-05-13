@@ -21,8 +21,7 @@ Awarded CHMC scholarship.
 ##### Bishop's University (1982 - 1986)
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
-   
- 
+   <br />   
    
    
 ## Professional development
@@ -31,19 +30,15 @@ Graduated with first class distinction.
 ##### Oregon State University (2018 – 2019)
 180-hour program covered essential components of e-learning course design and delivery. 
 Coursework included assessment and evaluation, course design, and a practicum.   
-     
 <br />      
 #### Simplified Technical English (STE) Workshop 
 ##### Shufrans TechDocs (February 2019)
 Completed two-day live online course that teaches controlled language for manuals.     
-      
 <br />       
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
 ##### Society for Technical Communication (2019)
 Completed online professional development course.
-  
-    
-             
+<br />                
 #### TechComm Fundamentals Bootcamp
 ##### Society for Technical Communication (2018)
 Completed online professional development course.   
