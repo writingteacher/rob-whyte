@@ -4,7 +4,9 @@
 
 ***   
 #### About    
-Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports for a boutique environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand. He honed his writing chops as a Lonely Planet contributor, leaned what it takes to be an effective classroom instructor, and dove headfirst into the unknown waters of digital content and e-book publishing. Rob comes to technical writing with a strong background in plain English communication, which helps him craft easy to understand user documentation for SaaS platforms.
+Rob has been writing professionally for 25+ years. Fresh out of graduate school with an M.Sc. in urban planning, he wrote technical reports for an environmental consultancy in Toronto. Eager to explore the world, he moved to Asia, which is where the Wheel of Fortuna showed her hand. 
+
+He honed his writing chops as a Lonely Planet contributor, learned to design effective instructions as a university professor, and dove headfirst into the unknown waters of digital content and e-book publishing. At the intersection of that experience, Rob comes to technical writing with a background in plain English communication and the ability to write documentation for SaaS platforms with the user in mind.
    
    
     
