@@ -9,6 +9,7 @@
 * [Design and cost of anerobic digestion plants](rob-whyte-organic1.pdf){:target="_blank" rel="noopener"}
 * [travel destination profile](https://www.lonelyplanet.com/articles/essential-jeju-do-top-10-activities-on-koreas-tropical-island){:target="_blank" rel="noopener"}   
 * [Korean food - kimchi](LP-spicy-food-whyte-kimchi.pdf){:target="_blank" rel="noopener"}   
+* [Korean food - chapter in Lonely Planet book](whyte-lp-korea-food.pdf){:target="_blank" rel="noopener"}  
     
 ***   
                 
