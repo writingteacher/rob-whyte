@@ -7,7 +7,7 @@
 ## University  
 
 #### eMBA
-[Quantic University](https://quantic.edu/){:target="_blank" rel="noopener"} (01/21 - 04/22)    
+##### [Quantic University](https://quantic.edu/){:target="_blank" rel="noopener"} (01/21 - 04/22)    
 On my way to completing an eMBA with this unique online program.  
 <br />   
          
@@ -27,29 +27,29 @@ Graduated with first class distinction.
 ## Professional development
 
 #### UX Writing in Practice Micro credit
-Seneca College, Toronto (Sept - Nov 2021)  
+##### Seneca College, Toronto (Sept - Nov 2021)  
 Learn UX writing standards (e.g. style guide, user flow, testing).
 <br />  
 
 #### UX Writing Fundamentals Micro credit
-Seneca College, Toronto (June - Aug 2021)   
+##### Seneca College, Toronto (June - Aug 2021)   
 Essential UX writing best practices (e.g. voice, actions, labels).
 <br />  
 
 #### E-Learning Instructional Design and Development Certificate
-Oregon State University (2018 – 2019)  
+##### Oregon State University (2018 – 2019)  
 180-hour program covered essential components of e-learning course design and delivery. 
 Coursework included assessment and evaluation, course design, and a practicum.   
 <br />      
 #### Simplified Technical English (STE) Workshop
-[Shufrans TechDocs](https://www.shufrans-techdocs.com/){:target="_blank" rel="noopener"} (February 2019)    
+##### [Shufrans TechDocs](https://www.shufrans-techdocs.com/){:target="_blank" rel="noopener"} (February 2019)    
 Completed two-day live online course that teaches controlled language for manuals.     
 <br />       
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
-Society for Technical Communication (2019)    
+##### Society for Technical Communication (2019)    
 Completed online professional development course.  
 <br />     
   
 #### TechComm Fundamentals Bootcamp
-Society for Technical Communication (2018)  
+##### Society for Technical Communication (2018)  
 Completed online professional development course.  
