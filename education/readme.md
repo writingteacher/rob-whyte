@@ -11,7 +11,7 @@
 On my way to completing an eMBA with this unique online program.  
 <br />   
          
-### M.Sc. Planning
+**M.Sc. Planning**
 ##### University of Toronto (1988 - 1990)
 Completed two-year program with specialization in environmental planning.
 Awarded CHMC scholarship.   
