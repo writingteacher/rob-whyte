@@ -30,7 +30,7 @@ Graduated with first class distinction.
 ##### Seneca College, Toronto (Sept - Nov 2021)  
 Learn UX writing standards (e.g. style guide, user flow, testing).  
 <br />   
-</>             
+             
 #### UX Writing Fundamentals Micro credit
 ##### Seneca College, Toronto (June - Aug 2021)   
 Essential UX writing best practices (e.g. voice, actions, labels).  
