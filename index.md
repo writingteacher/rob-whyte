@@ -31,7 +31,7 @@ Hired by this Australian CMS startup to write a block of how-to articles for the
 
 #### Technical Writer and Content Creator
 ##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
-This successful startup hired me to scale its help center documentation. Working with an international team, I wrote and edited 80+ Intercom knowledge base articles and produced 20+ [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia. With the bulk of the knowledge base complete, I provide maintenance support for new features.
+This successful startup hired me to scale its help center documentation. Working with an international team, I wrote and edited 80+ Intercom knowledge base articles and produced 20+ [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record) with Camtasia. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 
 
 #### Technical Writer
@@ -64,18 +64,18 @@ First technical writer hired by this startup to create how-to instructions for a
 #### Technical Writer and Content Creator
 ##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
 Created three [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:target="_blank" rel="noopener"} for this SaaS company that provides backup solutions. 
-Erote scripts, recorded the videos with Camtasia, and did the narration.
+Wrote scripts, recorded video with Camtasia, and did the narration.
+
+
+#### Technical Knowledge Writer
+##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
+Hired by this WordPress plugin startup to write [how-to articles](https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.   
      
      
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
-    
-    
-#### Technical Knowledge Writer
-##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
-Hired by this WordPress plugin startup to write [how-to articles](https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.   
-   
+     
           
 #### Knowledge Base Writer    
 ##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (January 2021)  
