@@ -11,13 +11,13 @@
 On my way to completing an eMBA with this unique online program.  
 <br />   
          
-**M.Sc. Planning**
+M.Sc. Planning
 #### University of Toronto (1988 - 1990)
 Completed two-year program with specialization in environmental planning.
 Awarded CHMC scholarship.   
 <br />   
                   
-**Honours B.A
+Honours B.A
 ###### Bishop's University (1982 - 1986)
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
