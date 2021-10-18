@@ -95,17 +95,14 @@ Wrote two user guides for a job sharing platform; one each for teachers and admi
 #### Technical Writer User Guides
 ##### [tactical arbitrage](https://tacticalarbitrage.com/){:target="_blank" rel="noopener"}  (June - July 2020)  
 Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients source products for sale on Amazon.    
-    
-    
-#### Knowledge Base Writer
-##### [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - Oct 2019)  
-The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.     
-    
-
    
    
 #### WooCommerce Plugin Guide
 ##### [WooCommerce Docs](https://docs.woocommerce.com/){:target="_blank" rel="noopener"}  (Jan - May 2020)  
 Wrote a user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}.
 
-
+    
+#### Knowledge Base Writer
+##### [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - Oct 2019)  
+The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.     
+    
