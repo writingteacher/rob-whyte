@@ -29,26 +29,26 @@ Graduated with first class distinction.
 #### UX Writing in Practice Micro credit
 ##### Seneca College, Toronto (Sept - Nov 2021)  
 Learn UX writing standards (e.g. style guide, user flow, testing).
-<br />  
+<br /> <br />  
 
 #### UX Writing Fundamentals Micro credit
 ##### Seneca College, Toronto (June - Aug 2021)   
 Essential UX writing best practices (e.g. voice, actions, labels).
-<br />  
+<br />  <br /> 
 
 #### E-Learning Instructional Design and Development Certificate
 ##### Oregon State University (2018 – 2019)  
 180-hour program covered essential components of e-learning course design and delivery. 
 Coursework included assessment and evaluation, course design, and a practicum.   
-<br />      
+<br />     <br />  
 #### Simplified Technical English (STE) Workshop
 ##### [Shufrans TechDocs](https://www.shufrans-techdocs.com/){:target="_blank" rel="noopener"} (February 2019)    
 Completed two-day live online course that teaches controlled language for manuals.     
-<br />       
+<br />  <br />      
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
 ##### Society for Technical Communication (2019)    
 Completed online professional development course.  
-<br />     
+<br />  <br />    
   
 #### TechComm Fundamentals Bootcamp
 ##### Society for Technical Communication (2018)  
