@@ -6,19 +6,19 @@
   
 ## University  
 
-### eMBA
+#### eMBA
 [Quantic University](https://quantic.edu/){:target="_blank" rel="noopener"} (01/21 - 04/22)    
 On my way to completing an eMBA with this unique online program.  
 <br />   
          
 #### M.Sc. Planning
-University of Toronto (1988 - 1990)
+University of Toronto (1988 - 1990)<br /> 
 Completed two-year program with specialization in environmental planning.
 Awarded CHMC scholarship.   
 <br />   
                   
-Honours B.A
-###### Bishop's University (1982 - 1986)
+####Honours B.A
+Bishop's University (1982 - 1986)
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
    <br />   
