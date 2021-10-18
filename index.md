@@ -26,7 +26,7 @@ At the intersection of that experience, Rob comes to technical writing with an e
 
 #### Technical Writer for CMS Manual
 ##### [sinorbis](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - present)  
-Initially hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"} to support new features and FAQs in response to customer support tickets. With the bulk of the knowledge complete, I provide maintenance support for new features.   
+Hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}. With the bulk of the knowledge complete, I provide maintenance support for new features.   
 
 
 #### Technical Writer and Content Creator
