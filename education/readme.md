@@ -17,7 +17,7 @@ Completed two-year program with specialization in environmental planning.
 Awarded CHMC scholarship.   
 <br />   
                   
-### Honours B.A
+**Honours B.A
 ###### Bishop's University (1982 - 1986)
 Earned honours degree in Political Science.
 Graduated with first class distinction.   
