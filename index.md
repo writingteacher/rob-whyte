@@ -24,19 +24,44 @@ At the intersection of that experience, Rob comes to technical writing with an e
       
 ## Technical Writing Projects   
    
-    
+#### Technical Writer
+##### [RevLock](https://www.rev-lock.com/){:target="_blank" rel="noopener"}   (September 2021 - Present)  
+Edut and update exiting user documentation for this SaaS accounting platform.
+
+
+#### Technical Writer
+##### [Upmind](https://www.upmin.com/){:target="_blank" rel="noopener"}   (Augst 2021 - Present)  
+Write user documentation for this new e-commerce platform that is currenty at the MVP stage.
+The Phase 1 knowledge base target, built on Craft CMS, is to complete  50 how-to articles. 
+
+
+#### Technical Writer
+##### [Digiteau](https://www.Digiteau.com/){:target="_blank" rel="noopener"}   (July 2021 - Present)  
+Write user documentation for this new SaaS product - an integrated marketing app that pushes campaigns to multiple channels.
+Create tooltips for key tasks. 
+
+
+#### Technical Writer
+##### [caregility](https://caregility.com/){:target="_blank" rel="noopener"}   (July 2021 - Present)  
+Updated three user guides (MS docs) for this telehealth services provider
+
     
 #### Technical Writer
 ##### [Flowhaven.com](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - Present)  
-First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce knowledge base platform. 
-      
+First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce knowledge base platform.    
       
       
 #### Technical Writer and Content Creator
 ##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
 This successful startup hired me to scale help center documentation. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.     
      
-                  
+
+#### Technical Writer and Content Creator
+##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
+Created three exlainer videos for this SaaS company that provides back solutions. 
+learned the app and then wrote scripts, recorded the videos with Camtasia, and did the narration [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:target="_blank" rel="noopener"}.     
+     
+     
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.    
