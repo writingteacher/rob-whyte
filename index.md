@@ -59,8 +59,6 @@ Updated three user guides (MS docs) for this telehealth services provider
 #### Technical Writer
 ##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - July 2021)  
 First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.    
-      
-   
      
 
 #### Technical Writer and Content Creator
