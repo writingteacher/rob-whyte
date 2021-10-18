@@ -42,7 +42,7 @@ Edit and update exiting user documentation (on Crisp) for this SaaS accounting p
 #### Technical Writer
 ##### [Upmind](https://www.upmin.com/){:target="_blank" rel="noopener"}   (Augst 2021 - Present)  
 Write user documentation for this new e-commerce platform (currently working towards MVP stage).
-The Phase 1 target, built on Craft CMS, is to complete knowledge base 50 how-to articles. 
+The Phase 1 target, built on Craft CMS, is to complete 50 knowledge base articles. 
 
 
 #### Technical Writer
