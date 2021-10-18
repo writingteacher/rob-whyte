@@ -47,9 +47,9 @@ Completed two-day live online course that teaches controlled language for manual
 <br />  <br />      
 #### Beyond the Content: Advanced Topics to Develop Your TC Career Certificate
 ##### Society for Technical Communication (2019)    
-Completed online professional development course.  
+learned advanced technical communication topics (e.g. help authoring, minimalism, tutorials).
 <br />  <br />    
   
 #### TechComm Fundamentals Bootcamp
 ##### Society for Technical Communication (2018)  
-Completed online professional development course.  
+Learned essential technical communication topics (e.g. writing style, procedures, hazards).
