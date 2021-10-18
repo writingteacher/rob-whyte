@@ -64,7 +64,7 @@ First technical writer hired by this startup to create how-to instructions for a
 #### Technical Writer and Content Creator
 ##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
 Created three [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:target="_blank" rel="noopener"} for this SaaS company that provides backup solutions. 
-learned the app and then wrote scripts, recorded the videos with Camtasia, and did the narration
+Erote scripts, recorded the videos with Camtasia, and did the narration.
      
      
 #### Knowledge Base Writer               
