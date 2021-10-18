@@ -35,12 +35,12 @@ This successful startup hired me to scale its help center documentation. Working
 
 
 #### Technical Writer
-##### [RevLock](https://www.rev-lock.com/){:target="_blank" rel="noopener"}   (September 2021 - Present)  
+##### [RevLock](https://www.rev-lock.com/){:target="_blank" rel="noopener"}   (Sept 2021 - Present)  
 Edit and update exiting user documentation (on Crisp) for this SaaS accounting platform.
 
 
 #### Technical Writer
-##### [Upmind](https://www.upmin.com/){:target="_blank" rel="noopener"}   (Augst 2021 - Present)  
+##### [Upmind](https://www.upmin.com/){:target="_blank" rel="noopener"}   (Aug 2021 - Present)  
 Write user documentation for this new e-commerce platform (currently working towards MVP stage).
 The Phase 1 target, built on Craft CMS, is to complete 50 knowledge base articles. 
 
@@ -55,17 +55,17 @@ Create tooltips for key tasks.
 ##### [Caregility](https://caregility.com/){:target="_blank" rel="noopener"}   (July 2021 - Oct 2021)  
 Updated three user guides (MS docs) for this telehealth services provider
 
-    
-#### Technical Writer
-##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - July 2021)  
-First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.    
-     
 
 #### Technical Writer and Content Creator
-##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
+##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Aug 2020 - Oct 2021)  
 Created three [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:target="_blank" rel="noopener"} for this SaaS company that provides backup solutions. 
 Wrote scripts, recorded video with Camtasia, and did the narration.
 
+
+#### Technical Writer
+##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (Apr 2021 - July 2021)  
+First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.    
+     
 
 #### Technical Knowledge Writer
 ##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
@@ -78,12 +78,12 @@ Hired by this British Columbia startup to write and edit [knowledge base article
      
           
 #### Knowledge Base Writer    
-##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (January 2021)  
+##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (Jan 2021)  
 Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.  
    
    
 #### Knowledge Base Language & Style Reviewer
-##### [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}  (March - April 2020)  
+##### [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}  (Mar - Apr 2020)  
 Hired to edit [instructions](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"} for a software testing tool in the Netherlands.  
 
 
@@ -98,16 +98,14 @@ Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients
     
     
 #### Knowledge Base Writer
-##### [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - October 2019)  
+##### [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - Oct 2019)  
 The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.     
     
 
    
    
 #### WooCommerce Plugin Guide
-##### [WooCommerce Docs](https://docs.woocommerce.com/){:target="_blank" rel="noopener"}  (January - May 2020)  
+##### [WooCommerce Docs](https://docs.woocommerce.com/){:target="_blank" rel="noopener"}  (Jan - May 2020)  
 Wrote a user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}.
-
-
 
 
