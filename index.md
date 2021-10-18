@@ -74,7 +74,7 @@ Hired by this WordPress plugin startup to write [how-to articles](https://help.w
 <br>     
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
-Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.  
+Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.
 <br>
 <br>            
 #### Knowledge Base Writer    
@@ -88,8 +88,8 @@ Hired to edit [instructions](https://help.testmonitor.com/requirements-overview)
 <br>
 <br>
 #### Technical Writer User Guides
-##### [Gemini3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  (June - July 2020)  
-Wrote two user guides for a job sharing platform; one each for teachers and administrators.  
+##### [Gemini 3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  (June - July 2020)  
+Wrote two user guides for a job sharing platform; one each for teachers and administrators.
 <br>
 <br>
 #### Technical Writer User Guides
