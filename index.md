@@ -23,16 +23,26 @@ At the intersection of that experience, Rob comes to technical writing with an e
       
       
 ## Technical Writing Projects   
-   
+
+#### Technical Writer for CMS Manual
+##### [sinorbis](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - present)  
+Initially hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"} to support new features and FAQs in response to customer support tickets. With the bulk of the knowledge complete, I provide maintenance support for new features.   
+
+
+#### Technical Writer and Content Creator
+##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
+This successful startup hired me to scale help center documentation. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia. With the bulk of the knowledge complete, I provide maintenance support for new features.
+
+
 #### Technical Writer
 ##### [RevLock](https://www.rev-lock.com/){:target="_blank" rel="noopener"}   (September 2021 - Present)  
-Edut and update exiting user documentation for this SaaS accounting platform.
+Edit and update exiting user documentation (on Crisp) for this SaaS accounting platform.
 
 
 #### Technical Writer
 ##### [Upmind](https://www.upmin.com/){:target="_blank" rel="noopener"}   (Augst 2021 - Present)  
-Write user documentation for this new e-commerce platform that is currenty at the MVP stage.
-The Phase 1 knowledge base target, built on Craft CMS, is to complete  50 how-to articles. 
+Write user documentation for this new e-commerce platform (currently working towards MVP stage).
+The Phase 1 target, built on Craft CMS, is to complete knowledge base 50 how-to articles. 
 
 
 #### Technical Writer
@@ -42,18 +52,15 @@ Create tooltips for key tasks.
 
 
 #### Technical Writer
-##### [caregility](https://caregility.com/){:target="_blank" rel="noopener"}   (July 2021 - Present)  
+##### [caregility](https://caregility.com/){:target="_blank" rel="noopener"}   (July 2021 - Oct 2021)  
 Updated three user guides (MS docs) for this telehealth services provider
 
     
 #### Technical Writer
-##### [Flowhaven.com](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - Present)  
+##### [Flowhaven.com](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (April 2021 - July 2021)  
 First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce knowledge base platform.    
       
-      
-#### Technical Writer and Content Creator
-##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
-This successful startup hired me to scale help center documentation. Working with an international team, I wrote and edited Intercom knowledge base articles and produced [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record, edit) with Camtasia.     
+   
      
 
 #### Technical Writer and Content Creator
@@ -97,10 +104,7 @@ Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients
 ##### [skeduler.com.au](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - October 2019)  
 The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.     
     
-    
-#### Technical Writer for CMS Manual
-##### [sinorbis](https://www.sinorbis.com/){:target="_blank" rel="noopener"}  (Dec 2018 - July 2020)  
-Initially hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"} to support new features and FAQs in response to customer support tickets.   
+
    
    
 #### WooCommerce Plugin Guide
