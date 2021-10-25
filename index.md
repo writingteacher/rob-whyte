@@ -14,7 +14,7 @@ At the intersection of that experience, Rob comes to technical writing with an e
    
     
 #### Quick find samples: user-face software documents    
-* [Software writign samplest](rob-whyte-saas-samples.pdf){:target="_blank" rel="noopener"}
+* [Software writing samples](rob-whyte-saas-samples.pdf){:target="_blank" rel="noopener"}
    
     
 ***   
