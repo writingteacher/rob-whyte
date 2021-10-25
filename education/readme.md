@@ -29,7 +29,7 @@ Graduated with first class distinction.
 #### UX Writing in Practice Micro credit
 ##### Seneca College, Toronto (Sept - Nov 2021)  
 Learn UX writing standards (e.g. style guide, user flow, testing).  
-Create onboarding worklow with Figma.
+Create [onboarding worklow](rob-whyte-figma-onboarding.pdf){:target="_blank" rel="noopener"} with Figma.
 <br />   
              
 #### UX Writing Fundamentals Micro credit
