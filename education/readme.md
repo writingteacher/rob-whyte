@@ -55,4 +55,4 @@ Learned advanced technical communication topics (e.g. help authoring, minimalism
            
 #### TechComm Fundamentals Bootcamp Certificate
 ##### Society for Technical Communication (2018)  
-Learned essential technical communication topics (e.g. writing style, procedures, hazards).
+Learned essential technical communication topics (e.g. writing style, procedures, hazards). 
