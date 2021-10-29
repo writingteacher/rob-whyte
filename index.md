@@ -117,7 +117,7 @@ Hired by this Singapore startup to launch a knowledge base starting with nine [a
 Hired to edit [instructions](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"} for a software testing tool in the Netherlands. 
 <br>
 <br>
-[![rob whyte technical writer editing](rob-whyte-techical-writer-contract-test-monitor.png)](https://help.testmonitor.com/tutorial-1-preparing-your-project){:target="_blank" rel="noopener"}
+[![rob whyte technical writer editing](rob-whyte-techical-writer-test-monitor.png)](https://help.testmonitor.com/tutorial-1-preparing-your-project){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Technical Writer User Guides
