@@ -43,13 +43,16 @@ This successful startup hired me to scale its help center documentation. Working
 Edit and update exiting user documentation (on Crisp) for this SaaS accounting platform.
 <br>
 <br>
-![rob whyte technical writer accounting SaaS revlock](rob-whyte-techical-writer-revlock.png)
+[![rob whyte technical writer accounting SaaS revlock](rob-whyte-techical-writer-revlock.png)](https://help.rev-lock.com/en/article/how-to-add-custom-fields-to-a-report-1tc63r2/){:target="_blank" rel="noopener"}  
 <br>
 <br>
 #### Technical Writer
 ##### [Upmind](https://www.upmind.com/){:target="_blank" rel="noopener"}   (Aug 2021 - Present)  
 Write user documentation for this new e-commerce platform (currently working towards MVP stage).
 The Phase 1 target, built on Craft CMS, is to complete 50 knowledge base articles.
+<br>
+<br>
+![rob whyte technical writer aecommerce](rob-whyte-techical-writer-upmind.png)
 <br>
 <br>
 #### Technical Writer
