@@ -85,6 +85,8 @@ Wrote scripts, recorded video with Camtasia, and did the narration.
 ##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (Apr 2021 - July 2021)  
 First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.
 <br>
+<br>![rob whyte technical writer flowhaven](rob-whyte-techical-writer-flowhaven.png)
+<br>
 <br>  
 #### Technical Knowledge Writer
 ##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
@@ -98,7 +100,9 @@ Hired by this WordPress plugin startup to write [how-to articles](https://help.w
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.
 <br>
-<br>            
+<br> [![rob whyte technical writer one click calling](rob-whyte-techical-writer-urlive.png)](https://help.url.live/knowledge-base/how-to-turn-on-call-notifications/){:target="_blank" rel="noopener"}  
+<br>
+<br>           
 #### Knowledge Base Writer    
 ##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (Jan 2021)  
 Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.
