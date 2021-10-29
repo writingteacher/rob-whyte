@@ -141,7 +141,16 @@ Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients
 Wrote a user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}.
 <br>
 <br>
+[![rob whyte technical writer woo commerce](rob-whyte-techical-writer-woo-commerce.png)](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}  
+<br>
+<br>
 #### Knowledge Base Writer
 ##### [Skeduler](https://www.skeduler.com.au/){:target="_blank" rel="noopener"}  (July - Oct 2019)  
 The first technical writer hired by this job management SaaS startup, I wrote 60+ how-to [articles](https://help.skeduler.com.au/knowledgebase/converting-a-quote-into-a-sale-with-the-technician-view/){:target="_blank" rel="noopener"} for the WordPress knowledge base platform.
+<br>
+<br>
+[![rob whyte technical writer workflow planner knowledge base](rob-whyte-techical-writer-skeduler.png)](https://help.skeduler.com.au/knowledgebase/creating-an-estimate-or-quote/){:target="_blank" rel="noopener"}  
+<br>
+<br>
+
     
