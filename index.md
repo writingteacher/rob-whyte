@@ -136,7 +136,7 @@ Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients
 Wrote a user guide for a plugin that adds [Google Merchant Center Customer Reviews](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}.
 <br>
 <br>
-[![rob whyte technical writer woo commerce](rob-whyte-techical-writer-woo-commerce.png)](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer woo commerce](rob-whyte-techical-writer-woo-commerce.png)](https://docs.woocommerce.com/document/woocommerce-google-merchant-center-customer-reviews/){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Knowledge Base Writer
