@@ -43,7 +43,7 @@ This successful startup hired me to scale its help center documentation. Working
 Edit and update exiting user documentation (on Crisp) for this SaaS accounting platform.
 <br>
 <br>
-[![rob whyte technical writer accounting SaaS revlock](rob-whyte-techical-writer-revlock.png)](https://help.rev-lock.com/en/article/how-to-add-custom-fields-to-a-report-1tc63r2/){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer accounting SaaS revlock](rob-whyte-techical-writer-revlock.png)](https://help.rev-lock.com/en/article/how-to-add-custom-fields-to-a-report-1tc63r2/){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Technical Writer
@@ -93,7 +93,7 @@ First technical writer hired by this startup to create how-to instructions for a
 Hired by this WordPress plugin startup to write [how-to articles](https://wpblazer.com/wordpress-user-management/change-your-wordpress-login-url-now/){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.
 <br>
 <br>
-[![rob whyte technical writer seo blog articles](rob-whyte-techical-writer-wpblazer.png)](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer seo blog articles](rob-whyte-techical-writer-wpblazer.png)](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Knowledge Base Writer               
@@ -127,10 +127,10 @@ Wrote two user guides for a job sharing platform; one each for teachers and admi
 <br>
 <br>![rob whyte technical writer job sharing user guides](rob-whyte-techical-writer-gemini3.png)
 <br>
-<br>  
+<br>
 #### Technical Writer User Guides
 ##### [Tactical Arbitrage](https://tacticalarbitrage.com/){:target="_blank" rel="noopener"}  (June - July 2020)  
-Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients source products for sale on Amazon. 
+Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients source products for sale on Amazon.
 <br>
 <br>
 <br>![rob whyte technical writer job knowledge base](rob-whyte-techical-writer-tactical.png)
