@@ -27,7 +27,7 @@ At the intersection of that experience, Rob comes to technical writing with an e
 Hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 <br>
 <br>
-![[rob whyte technical writer sinorbis](rob-whyte-techical-writer-sinorbis.png)(https://help.sinorbis.com/hc/en-us/articles/360001279815-How-to-Map-Data){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer sinorbis](rob-whyte-techical-writer-sinorbis.png)](https://help.sinorbis.com/hc/en-us/articles/360001279815-How-to-Map-Data){:target="_blank" rel="noopener"}  
 <br>
 <br>
 #### Technical Writer and Content Creator
