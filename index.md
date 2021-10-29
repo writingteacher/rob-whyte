@@ -90,24 +90,28 @@ First technical writer hired by this startup to create how-to instructions for a
 <br>  
 #### Technical Knowledge Writer
 ##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
-Hired by this WordPress plugin startup to write [how-to articles](https://help.wpblazer.com/getting-started/how-to-add-a-word-press-site){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.
+Hired by this WordPress plugin startup to write [how-to articles](https://wpblazer.com/wordpress-user-management/change-your-wordpress-login-url-now/){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.
 <br>
 <br>   
-![rob whyte technical writer wordpress seo blog articles](rob-whyte-techical-writer-wpblazer.png)
+[![rob whyte technical writer seo blog articles](rob-whyte-techical-writer-wpblazer.png)](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"}  
 <br>
 <br>
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.
 <br>
-<br> [![rob whyte technical writer one click calling](rob-whyte-techical-writer-urlive.png)](https://help.url.live/knowledge-base/how-to-turn-on-call-notifications/){:target="_blank" rel="noopener"}  
+<br
+[![rob whyte technical writer one click calling](rob-whyte-techical-writer-urlive.png)](https://help.url.live/knowledge-base/how-to-turn-on-call-notifications/){:target="_blank" rel="noopener"}  
 <br>
 <br>           
 #### Knowledge Base Writer    
 ##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (Jan 2021)  
 Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.
 <br>
-<br>   
+<br>
+[![rob whyte technical writer contract knowledhe base](rob-whyte-techical-writer-contract-hound.png)](https://help.contracthound.com/en/articles/4810366-how-to-upload-a-contract){:target="_blank" rel="noopener"}  
+<br>
+<br>  
 #### Knowledge Base Language & Style Reviewer
 ##### [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}  (Mar - Apr 2020)  
 Hired to edit [instructions](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"} for a software testing tool in the Netherlands. 
