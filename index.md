@@ -41,11 +41,9 @@ This successful startup hired me to scale its help center documentation. Working
 #### Technical Writer
 ##### [RevLock](https://www.rev-lock.com/){:target="_blank" rel="noopener"}   (Sept 2021 - Present)  
 Edit and update exiting user documentation (on Crisp) for this SaaS accounting platform.
-<br>
-<br>
+<br><br>
 [![rob whyte technical writer accounting SaaS revlock](rob-whyte-techical-writer-revlock.png)](https://help.rev-lock.com/en/article/how-to-add-custom-fields-to-a-report-1tc63r2/){:target="_blank" rel="noopener"}
-<br>
-<br>
+<br><br>
 #### Technical Writer
 ##### [Upmind](https://www.upmind.com/){:target="_blank" rel="noopener"}   (Aug 2021 - Present)  
 Write user documentation for this new e-commerce platform (currently working towards MVP stage).
@@ -85,17 +83,16 @@ Wrote scripts, recorded video with Camtasia, and did the narration.
 ##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (Apr 2021 - July 2021)  
 First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.
 <br>
-<br>![rob whyte technical writer flowhaven](rob-whyte-techical-writer-flowhaven.png)
+<br>
+![rob whyte technical writer flowhaven](rob-whyte-techical-writer-flowhaven.png)
 <br>
 <br>  
 #### Technical Knowledge Writer
 ##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
 Hired by this WordPress plugin startup to write [how-to articles](https://wpblazer.com/wordpress-user-management/change-your-wordpress-login-url-now/){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.
-<br>
-<br>
+<br><br>
 [![rob whyte technical writer seo blog articles](rob-whyte-techical-writer-wpblazer.png)](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"}
-<br>
-<br>
+<br><br>
 #### Knowledge Base Writer               
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.
@@ -124,14 +121,12 @@ Hired to edit [instructions](https://help.testmonitor.com/requirements-overview)
 ##### [Gemini 3](https://gemini3.com.au/){:target="_blank" rel="noopener"}  (June - July 2020)  
 Wrote two user guides for a job sharing platform; one each for teachers and administrators.
 <br>
-<br>
 <br>![rob whyte technical writer job sharing user guides](rob-whyte-techical-writer-gemini3.png)
 <br>
 <br>
 #### Technical Writer User Guides
 ##### [Tactical Arbitrage](https://tacticalarbitrage.com/){:target="_blank" rel="noopener"}  (June - July 2020)  
 Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients source products for sale on Amazon.
-<br>
 <br>
 <br>![rob whyte technical writer job knowledge base](rob-whyte-techical-writer-tactical.png)
 <br>
