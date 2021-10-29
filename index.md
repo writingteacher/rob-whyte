@@ -61,9 +61,15 @@ Write user documentation for this new SaaS product - an integrated marketing app
 Create tooltips for key tasks.
 <br>
 <br>
+![rob whyte technical writer crm marketing](rob-whyte-techical-writer-pushbee.png)
+<br>
+<br>
 #### Technical Writer
 ##### [Caregility](https://caregility.com/){:target="_blank" rel="noopener"}   (July 2021 - Oct 2021)  
 Updated three user guides (MS docs) for this telehealth services provider.
+<br>
+<br>
+![rob whyte technical writer telehealth guides](rob-whyte-techical-writer-caregility.png)
 <br>
 <br>
 #### Technical Writer and Content Creator
