@@ -27,11 +27,16 @@ At the intersection of that experience, Rob comes to technical writing with an e
 Hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 <br>
 <br>
+![rob whyte technical writer sinorbis](rob-whyte-techical-writer-sinorbis.png)
+<br>
+<br>
 #### Technical Writer and Content Creator
 ##### [Glide.com](https://glide.com){:target="_blank" rel="noopener"}   (Aug 2020 - Present)  
 This successful startup hired me to scale its help center documentation. Working with an international team, I wrote and edited 80+ Intercom knowledge base articles and produced 20+ [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record) with Camtasia. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 <br>
+<br>
 ![rob whyte technical writer Glide](rob-whyte-techical-writer-glide.png)
+<br>
 <br>
 #### Technical Writer
 ##### [RevLock](https://www.rev-lock.com/){:target="_blank" rel="noopener"}   (Sept 2021 - Present)  
