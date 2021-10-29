@@ -27,7 +27,7 @@ At the intersection of that experience, Rob comes to technical writing with an e
 Hired by this Australian CMS startup to write a block of how-to articles for the Zendesk help center based on a simple information architecture that I created on Powerpoint. I stayed with the company for 18 months adding new [articles](https://help.sinorbis.com/hc/en-us/articles/360000870816-Adding-Images-to-WeChat-Menu-Items/){:target="_blank" rel="noopener"}. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 <br>
 <br>
-[![rob whyte technical writer sinorbis](rob-whyte-techical-writer-sinorbis.png)](https://help.sinorbis.com/hc/en-us/articles/360001279815-How-to-Map-Data){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer sinorbis](rob-whyte-techical-writer-sinorbis.png)](https://help.sinorbis.com/hc/en-us/articles/360001279815-How-to-Map-Data){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Technical Writer and Content Creator
@@ -35,7 +35,7 @@ Hired by this Australian CMS startup to write a block of how-to articles for the
 This successful startup hired me to scale its help center documentation. Working with an international team, I wrote and edited 80+ Intercom knowledge base articles and produced 20+ [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record) with Camtasia. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 <br>
 <br>
-[![rob whyte technical writer glide](rob-whyte-techical-writer-glide.png)](https://help.glide.com/en/articles/5434469-how-to-use-glide-on-an-android-device){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer glide](rob-whyte-techical-writer-glide.png)](https://help.glide.com/en/articles/5434469-how-to-use-glide-on-an-android-device){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Technical Writer
@@ -78,7 +78,7 @@ Created three [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:t
 Wrote scripts, recorded video with Camtasia, and did the narration.
 <br>
 <br>
-[![rob whyte technical writer cloud back up](rob-whyte-techical-writer-cloudally.png)](https://www.youtube.com/watch?v=8k3ZdFck7bk){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer cloud back up](rob-whyte-techical-writer-cloudally.png)](https://www.youtube.com/watch?v=8k3ZdFck7bk){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Technical Writer
@@ -92,7 +92,7 @@ First technical writer hired by this startup to create how-to instructions for a
 ##### [WPBlazer](https://wpblazer.com/){:target="_blank" rel="noopener"}  (May 2020 - Mar 2021)  
 Hired by this WordPress plugin startup to write [how-to articles](https://wpblazer.com/wordpress-user-management/change-your-wordpress-login-url-now/){:target="_blank" rel="noopener"} for the brand new knowledge base. The client asked me to stay on and write monthly [SEO blog posts](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"} about WordPress tools and features.
 <br>
-<br>   
+<br>
 [![rob whyte technical writer seo blog articles](rob-whyte-techical-writer-wpblazer.png)](https://wpblazer.com/wordpress-backup/restore-wordpress-from-backup/){:target="_blank" rel="noopener"}  
 <br>
 <br>
@@ -100,21 +100,24 @@ Hired by this WordPress plugin startup to write [how-to articles](https://wpblaz
 ##### [url.live](https://url.live/Account/Login){:target="_blank" rel="noopener"}  (Oct 2020 - Jan 2021)  
 Hired by this British Columbia startup to write and edit [knowledge base articles](https://help.url.live/knowledge-base/how-to-answer-a-call/){:target="_blank" rel="noopener"} for its one-click calling service. I also wrote and edited email messages for the free trial sales funnel.
 <br>
-<br
-[![rob whyte technical writer one click calling](rob-whyte-techical-writer-urlive.png)](https://help.url.live/knowledge-base/how-to-turn-on-call-notifications/){:target="_blank" rel="noopener"}  
 <br>
-<br>           
+[![rob whyte technical writer one click calling](rob-whyte-techical-writer-urlive.png)](https://help.url.live/knowledge-base/how-to-turn-on-call-notifications/){:target="_blank" rel="noopener"}
+<br>
+<br>     
 #### Knowledge Base Writer    
 ##### [Contract Hound](https://www.contracthound.com/){:target="_blank" rel="noopener"}  (Jan 2021)  
 Hired by this Singapore startup to launch a knowledge base starting with nine [articles](https://help.contracthound.com/en/articles/4818152-how-to-set-up-a-workflow){:target="_blank" rel="noopener"} to support its contract management service.
 <br>
 <br>
-[![rob whyte technical writer contract knowledhe base](rob-whyte-techical-writer-contract-hound.png)](https://help.contracthound.com/en/articles/4810366-how-to-upload-a-contract){:target="_blank" rel="noopener"}  
+[![rob whyte technical writer contract knowledhe base](rob-whyte-techical-writer-contract-hound.png)](https://help.contracthound.com/en/articles/4810366-how-to-upload-a-contract){:target="_blank" rel="noopener"}
 <br>
-<br>  
+<br>
 #### Knowledge Base Language & Style Reviewer
 ##### [Test Monitor](https://www.testmonitor.com/){:target="_blank" rel="noopener"}  (Mar - Apr 2020)  
 Hired to edit [instructions](https://help.testmonitor.com/requirements-overview){:target="_blank" rel="noopener"} for a software testing tool in the Netherlands. 
+<br>
+<br>
+[![rob whyte technical writer editing](rob-whyte-techical-writer-contract-test-monitor.png)](https://help.testmonitor.com/tutorial-1-preparing-your-project){:target="_blank" rel="noopener"}
 <br>
 <br>
 #### Technical Writer User Guides
@@ -122,9 +125,15 @@ Hired to edit [instructions](https://help.testmonitor.com/requirements-overview)
 Wrote two user guides for a job sharing platform; one each for teachers and administrators.
 <br>
 <br>
+<br>![rob whyte technical writer job sharing user guides](rob-whyte-techical-writer-gemini3.png)
+<br>
+<br>  
 #### Technical Writer User Guides
 ##### [Tactical Arbitrage](https://tacticalarbitrage.com/){:target="_blank" rel="noopener"}  (June - July 2020)  
 Wrote 20+ how-to Intercom articles for this buy-sell platform that helps clients source products for sale on Amazon. 
+<br>
+<br>
+<br>![rob whyte technical writer job knowledge base](rob-whyte-techical-writer-tactical.png)
 <br>
 <br>
 #### WooCommerce Plugin Guide
