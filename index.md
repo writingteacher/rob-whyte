@@ -78,6 +78,9 @@ Created three [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:t
 Wrote scripts, recorded video with Camtasia, and did the narration.
 <br>
 <br>
+[![rob whyte technical writer cloud back up](rob-whyte-techical-writer-cloudally.png)](https://www.youtube.com/watch?v=8k3ZdFck7bk){:target="_blank" rel="noopener"}  
+<br>
+<br>
 #### Technical Writer
 ##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (Apr 2021 - July 2021)  
 First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.
