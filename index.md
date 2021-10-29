@@ -35,7 +35,7 @@ Hired by this Australian CMS startup to write a block of how-to articles for the
 This successful startup hired me to scale its help center documentation. Working with an international team, I wrote and edited 80+ Intercom knowledge base articles and produced 20+ [explainer videos](https://help.glide.com/en/articles/4786477-how-to-create-and-manage-brokerage-checklists){:target="_blank" rel="noopener"} (write/edit scripts, narrate, record) with Camtasia. With the bulk of the knowledge base complete, I provide maintenance support for new features.
 <br>
 <br>
-![rob whyte technical writer Glide](rob-whyte-techical-writer-glide.png)
+[![rob whyte technical writer glide](rob-whyte-techical-writer-glide.png)](https://help.glide.com/en/articles/5434469-how-to-use-glide-on-an-android-device){:target="_blank" rel="noopener"}  
 <br>
 <br>
 #### Technical Writer
