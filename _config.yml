@@ -1,4 +1,4 @@
-theme: jekyll-theme-hyde
+theme: jekyll-theme-minimal
 markdown: kramdown
 site_url: https://writingteacher.github.io/rob-whyte
 # Google Analytics
