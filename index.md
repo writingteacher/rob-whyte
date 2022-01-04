@@ -13,8 +13,8 @@ At the intersection of that experience, Rob comes to technical writing with an e
    
    
     
-#### Quick find samples: user-face software documents    
-* [Software writing samples](rob-whyte-saas-samples.pdf){:target="_blank" rel="noopener"}
+#### Quick find samples: portfolio    
+* [writing samples](https://writingteacher.github.io/rob-whyte-portfolio/){:target="_blank" rel="noopener"}
    
     
 ***   
