@@ -8,7 +8,7 @@
 
 #### eMBA
 ##### [Quantic University](https://quantic.edu/){:target="_blank" rel="noopener"} (01/21 - 04/22)    
-On my way to completing an eMBA with this unique online program. Here is a [sample](biz-plan-sample.pdf){:target="_blank" rel="noopener"} from the Capstoen business plan project.
+On my way to completing an eMBA with this unique online program. Here is a [sample](biz-plan-sample.pdf){:target="_blank" rel="noopener"} from the Capstone business plan project.
 <br />   
          
 #### M.Sc. Planning
