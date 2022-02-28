@@ -72,7 +72,7 @@ Updated three user guides (MS docs) for this telehealth services provider.
 <br>
 #### Technical Writer and Content Creator
 ##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Dec 2021 - Feb 2022)  
-Wrote a partner guide for CloudAlly resellers which explains how they can create accounts and configure Microsoft backups (Exchange, Groups/Teams, Sharepoint, One Drive for their clients. 
+Wrote a partner guide for CloudAlly resellers which explains how they can create accounts and configure Microsoft backups (Exchange, Groups/Teams, Sharepoint, One Drive) for their clients. 
 <br>
 <br>
 #### Technical Writer
