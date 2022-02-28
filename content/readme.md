@@ -19,8 +19,8 @@
 ## Content Writing   
    
    
-#### SEO article -- [dlpsauna](https://dlpsaunas.com/sauna-for-life-in-canada/){:target="_blank" rel="noopener"}  (May 2021)
-* Wrote 2000-word pillar article for sauna retailer in Ontario, Canada. Integrated keywords into text and H2s. Researched sauna history, manufacturers, and background information. Completed background research and designed use case format.    
+#### SEO article -- [dlpsauna](https://dlpsaunas.com){:target="_blank" rel="noopener"}  (May 2021)
+* Wrote 2000-word pillar article for [sauna](rob-whyte-sauna-sample.pdf){:target="_blank" rel="noopener"} retailer in Ontario, Canada. Integrated keywords into text and H2s. Researched sauna history, manufacturers, and background information. Completed background research and designed use case format.    
 
 
 #### Use cases -- [alchera](https://alcherainc.com/en/){:target="_blank" rel="noopener"}  (Jan - June 2020)
