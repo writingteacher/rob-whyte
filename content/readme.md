@@ -16,9 +16,12 @@
 ***   
           
           
-## Content Writing   
-   
-   
+## Content   
+
+#### Explainer Video Content -- [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}  (Oct 2021 - Feb 2022)
+* Created four explainer [videos](https://youtu.be/QH1tZ7oawac){:target="_blank" rel="noopener"} for this backup service. Wrote scripts, narrated, recorded, amd edited video with Camtasia.
+  
+  
 #### SEO article -- [dlpsauna](https://dlpsaunas.com){:target="_blank" rel="noopener"}  (May 2021)
 * Wrote 2000-word pillar article for [sauna](rob-whyte-sauna-sample.pdf){:target="_blank" rel="noopener"} retailer in Ontario, Canada. Integrated keywords into text and H2s. Researched sauna history, manufacturers, and background information. Completed background research and designed use case format.    
 
