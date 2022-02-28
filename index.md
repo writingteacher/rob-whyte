@@ -71,9 +71,8 @@ Updated three user guides (MS docs) for this telehealth services provider.
 <br>
 <br>
 #### Technical Writer and Content Creator
-##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Aug 2020 - Oct 2021)  
-Created three [explainer videos](https://www.youtube.com/watch?v=bjDm88wuZZI){:target="_blank" rel="noopener"} for this SaaS company that provides backup solutions. 
-Wrote scripts, recorded video with Camtasia, and did the narration.
+##### [CloudAlly](https://www.cloudally.com/){:target="_blank" rel="noopener"}   (Dec 2021 - Feb 2022)  
+Wrote a partner guide for CloudAlly resellers which explains how they can create accounts and configure Microsoft backups (Exchange, Groups/Teams, Sharepoint, One Drive for their clients. 
 <br>
 <br>
 [![rob whyte technical writer cloud back up](rob-whyte-techical-writer-cloudally.png)](https://www.youtube.com/watch?v=8k3ZdFck7bk){:target="_blank" rel="noopener"}
