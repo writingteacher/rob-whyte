@@ -75,9 +75,6 @@ Updated three user guides (MS docs) for this telehealth services provider.
 Wrote a partner guide for CloudAlly resellers which explains how they can create accounts and configure Microsoft backups (Exchange, Groups/Teams, Sharepoint, One Drive for their clients. 
 <br>
 <br>
-[![rob whyte technical writer cloud back up](rob-whyte-techical-writer-cloudally.png)](https://www.youtube.com/watch?v=8k3ZdFck7bk){:target="_blank" rel="noopener"}
-<br>
-<br>
 #### Technical Writer
 ##### [Flowhaven](https://www.flowhaven.com/){:target="_blank" rel="noopener"}   (Apr 2021 - July 2021)  
 First technical writer hired by this startup to create how-to instructions for a royalty licensing SaaS app built on Salesforce. Wrote articles on Salesforce Knowledge.
