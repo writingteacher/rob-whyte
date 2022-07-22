@@ -45,5 +45,4 @@
 
 
 
- 
- 
+ [.](content/tone-map.png){:target="_blank" rel="noopener"} 
