@@ -45,4 +45,4 @@
 
 
 
- [.](content/tone-map.png){:target="_blank" rel="noopener"} 
+ [.](tone-map.png){:target="_blank" rel="noopener"} 
